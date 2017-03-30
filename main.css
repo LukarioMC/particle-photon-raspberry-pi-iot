@@ -6,3 +6,12 @@
 body{
   font-family: Avenir;
 }
+
+table {
+		border-collapse: collapse;
+	}
+	
+.tablecontainer{
+    vertical-align: top;
+    padding: 10px;
+}
