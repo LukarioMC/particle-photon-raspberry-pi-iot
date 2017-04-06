@@ -2,15 +2,15 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.yoursite.basicparticle"
-    version     = "1.02.03" >      <!-- Change this before each compile -->
+    version     = "1.00.02" >      <!-- Change this before each compile -->
 
-  <name>Particle-Communication</name>
+  <name>Dakaro Particle App</name>
   <description>
-      An example for phonegap build docs.
+      Dakaro's Phonegap App
   </description>
   
-  <author href="https://yoursite.com" email="you@gmail.com">
-      yourName
+  <author href="https://wanwan.moe/" email="wan@wan.wan">
+      Dakaro
   </author>
   
   
